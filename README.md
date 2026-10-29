@@ -1,4 +1,4 @@
-# Hi, I'm K1ros
+# Hi, I'm Dmitriy
 
 I build tools for numerical simulation, data collection and desktop workflows.
 My main project is **Solar Simulator**, a gravitational laboratory built with Python and Rust.
